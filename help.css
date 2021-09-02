@@ -1,0 +1,58 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+    background-size: cover;
+	background-color:plum;
+}
+h1{
+	margin-top:10px;
+	margin-left:5%;
+	position: 30 top;
+   text-align:left;
+   font-family:sans-serif;
+   font-size:50px ;
+   color:blue;
+   animation:4s text none;
+}
+font{
+	color:red;
+}
+h2{
+
+	margin-top:-8px;
+	margin-left: 5%;
+	margin-right:20%;
+	font-family: sans-serif;
+	font-size:30px ;
+	text-align:justify;
+	color: black ;
+
+}
+h3{
+	color: black;
+    marging-top: 10% 
+    maring left:15%;
+    font-size:30px ;
+    font-family: sans-serif;
+}
+button{
+    padding: 10px;
+    border-radius: 50px;
+    width: 200px;
+    background:#fc0254;
+    color:white;
+    border: none;
+    text-transform: uppercase;
+    outline: none;
+    cursor: pointer;
+    font-weight: 400;
+    font-family:sans-serif;
+    letter-spacing: 1px;
+    box-shadow: 0px 2px 10px #000;
+}
+
+button:hover{
+    opacity: 0.8;
+}

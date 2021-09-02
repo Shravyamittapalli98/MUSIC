@@ -1,0 +1,34 @@
+*{
+  padding: 0;
+  margin: 0;
+
+
+}
+.box{
+	color:black;
+}
+header{
+	font: bolder;
+	text-align: center;
+	font-size:40px ;
+	te
+}
+body{
+    background-size: cover;
+	background-color:blue;
+}
+ nav{
+ 	float:right;
+ 	margin-top: 20px;
+ 	background-color:transparent;
+ 	margin-right:60px;
+ 	margin-left:60px;
+ }
+ul{
+    margin: 50px 230px;
+}
+ul li{
+    font: bold;
+    font-weight: 900;
+    list-style-type: none;
+}

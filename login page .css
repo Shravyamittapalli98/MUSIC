@@ -1,0 +1,18 @@
+*{
+margin: 0px;
+padding: 0px;
+font-family: sans-serif;
+}
+
+   body{
+    background:url('bac.jpg') no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+
+    }
+    .login-form{
+      width:350px;      
+      top:50%;
+      left:50%;
+      transform:translate(-50%,-50%);
+      position: 
